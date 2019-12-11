@@ -1,0 +1,11 @@
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\obj\Debug\netcoreapp1.0\SocialNetwork.OAuth.csprojAssemblyReference.cache
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\obj\Debug\netcoreapp1.0\SocialNetwork.OAuth.csproj.CoreCompileInputs.cache
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\obj\Debug\netcoreapp1.0\SocialNetwork.OAuth.AssemblyInfoInputs.cache
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\obj\Debug\netcoreapp1.0\SocialNetwork.OAuth.AssemblyInfo.cs
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\bin\Debug\netcoreapp1.0\SocialNetwork.OAuth.deps.json
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\bin\Debug\netcoreapp1.0\SocialNetwork.OAuth.runtimeconfig.json
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\bin\Debug\netcoreapp1.0\SocialNetwork.OAuth.runtimeconfig.dev.json
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\bin\Debug\netcoreapp1.0\SocialNetwork.OAuth.dll
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\bin\Debug\netcoreapp1.0\SocialNetwork.OAuth.pdb
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\obj\Debug\netcoreapp1.0\SocialNetwork.OAuth.dll
+D:\Arul Pushpam\MY Doc\OAUTH\asp-dot-net-core-oauth\02\demos\SocialNetwork\SocialNetwork.OAuth\obj\Debug\netcoreapp1.0\SocialNetwork.OAuth.pdb
